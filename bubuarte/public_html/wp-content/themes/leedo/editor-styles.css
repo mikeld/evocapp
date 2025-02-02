@@ -1,5 +1,0 @@
-/* Dropcap */
-#tinymce .vlt-dropcap::first-letter {
-	font-weight: 700;
-	color: red;
-}
