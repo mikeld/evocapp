@@ -1,0 +1,1932 @@
+# Translation of Plugins - StoreCustomizer &#8211; A plugin to Customize all WooCommerce Pages - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - StoreCustomizer &#8211; A plugin to Customize all WooCommerce Pages - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-13 16:34:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - StoreCustomizer &#8211; A plugin to Customize all WooCommerce Pages - Stable (latest release)\n"
+
+#: woocustomizer.php:97
+msgid "StoreCustomizer requires the WooCommerce plugin to be active to work"
+msgstr "StoreCustomizer requiere que el plugin WooCommerce esté activo para funcionar"
+
+#: includes/inc/woocommerce.php:1509
+msgid "Account details"
+msgstr "Detalles de la cuenta"
+
+#: includes/inc/woocommerce.php:1440
+msgid "Please select the page you'd like to display here."
+msgstr "Selecciona la página que quieras mostrar aquí."
+
+#: includes/inc/woocommerce.php:1288
+msgid "Please Upload an Image"
+msgstr "Sube una imagen"
+
+#: includes/inc/woocommerce.php:934
+msgid "Override the default 'Continue Shopping' button url set in the Customizer"
+msgstr "Reemplazar la URL por defecto del botón «Continuar comprando» establecida en el personalizador"
+
+#: includes/inc/woocommerce.php:931
+msgid "'Continue Shopping' url"
+msgstr "URL de «Continuar comprando»"
+
+#: includes/inc/woocommerce.php:924
+msgid "Override the default 'Continue Shopping' button text set in the Customizer"
+msgstr "Reemplazar el texto predeterminado del botón «Continuar comprando» establecido en el personalizador"
+
+#: includes/inc/woocommerce.php:921
+msgid "'Continue Shopping' text"
+msgstr "Texto de «Continuar comprando»"
+
+#: includes/inc/woocommerce.php:912
+msgid "Override the default quantity input suffix set in the Customizer"
+msgstr "Reemplazar el sufijo de entrada de cantidad por defecto establecido en el personalizador"
+
+#: includes/inc/woocommerce.php:909
+msgid "Quantity Input Suffix"
+msgstr "Sufijo de entrada de cantidad"
+
+#: includes/inc/woocommerce.php:900
+msgid "Override the default price suffix set in the Customizer"
+msgstr "Reemplazar el sufijo de precio por defecto establecido en el personalizador"
+
+#: includes/inc/woocommerce.php:897
+msgid "Price Suffix"
+msgstr "Sufijo de precio"
+
+#: includes/inc/woocommerce.php:888
+msgid "Override the default price prefix set in the Customizer"
+msgstr "Reemplazar el prefijo de precio por defecto establecido en el personalizador"
+
+#: includes/inc/woocommerce.php:885
+msgid "Price Prefix"
+msgstr "Prefijo del precio"
+
+#: includes/inc/woocommerce.php:846
+msgid "Edit Product"
+msgstr "Editar producto"
+
+#: includes/inc/woocommerce.php:826
+msgid "View Order"
+msgstr "Ver pedido"
+
+#: includes/inc/woocommerce.php:801
+msgid "Recent Sales"
+msgstr "Ventas recientes"
+
+#: includes/inc/woocommerce.php:775
+msgid "Total Sales"
+msgstr "Ventas totales"
+
+#: includes/inc/woocommerce.php:769
+msgid "product"
+msgstr "producto"
+
+#: includes/inc/woocommerce.php:742
+msgid "View Product Statistics"
+msgstr "Ver las estadísticas del producto"
+
+#: includes/inc/woocommerce.php:636 includes/inc/woocommerce.php:637
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#: includes/inc/woocommerce.php:622
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoría:"
+msgstr[1] "Categorías:"
+
+#: includes/customizer/customizer-options.php:2716
+msgid "Headings Color"
+msgstr "Color de los encabezados"
+
+#: includes/customizer/customizer-options.php:2698
+msgid "Your Order"
+msgstr "Tu pedido"
+
+#: includes/customizer/customizer-options.php:2695
+msgid "'Your Order' heading"
+msgstr "Encabezado de «Tu pedido»"
+
+#: includes/customizer/customizer-options.php:2691
+msgid "Ship to a different address?"
+msgstr "¿Enviar a una dirección diferente?"
+
+#: includes/customizer/customizer-options.php:2688
+msgid "'Shipping' heading"
+msgstr "Título de «Envío»"
+
+#: includes/customizer/customizer-options.php:2684
+msgid "Additional information"
+msgstr "Información adicional"
+
+#: includes/customizer/customizer-options.php:2681
+msgid "'Additional information' heading"
+msgstr "Encabezado de «Información adicional»"
+
+#: includes/customizer/customizer-options.php:2677
+msgid "Billing details"
+msgstr "Detalles de facturación"
+
+#: includes/customizer/customizer-options.php:2674
+msgid "'Billing' heading"
+msgstr "Encabezado de 'Facturación'"
+
+#: includes/customizer/customizer-options.php:2670
+msgid "Note: These settings use more memory so we suggest only doing this if you need to."
+msgstr "Nota: Estos ajustes usan más memoria, por lo que sugerimos hacer esto solo si es necesario."
+
+#: includes/customizer/customizer-options.php:2661
+msgid "Customize checkout details headings"
+msgstr "Personalizar los encabezados de los detalles de la página de finalizar compra"
+
+#: includes/customizer/customizer-options.php:2600
+msgid "Place Order"
+msgstr "Realizar pedido"
+
+#: includes/customizer/customizer-options.php:2590
+msgid "Customize the \"Place Order\" button"
+msgstr "Personalizar el botón de «Realizar pedido»"
+
+#: includes/customizer/customizer-options.php:2585
+msgid "This button should be designed by the theme. We try offer extra customization for this button. If this doesn't work, please get in contact for help."
+msgstr "Este botón debe estar diseñado por el tema. Intentamos ofrecer personalización adicional para este botón. Si esto no funciona, ponte en contacto para obtener ayuda."
+
+#: includes/customizer/customizer-options.php:2577
+msgid "Create an account?"
+msgstr "¿Crear una cuenta?"
+
+#: includes/customizer/customizer-options.php:2568
+msgid "Edit 'Create an account?' Text"
+msgstr "Editar el texto '¿Crear una cuenta?'"
+
+#: includes/customizer/customizer-options.php:2562
+msgid "Edit <a href=\""
+msgstr "Editar <a href=\""
+
+#: includes/customizer/customizer-options.php:2559
+msgid "Remove Order Notes"
+msgstr "Eliminar las notas del pedido"
+
+#: includes/customizer/customizer-options.php:2552
+msgid "Remove Phone Number"
+msgstr "Eliminar el número de teléfono"
+
+#: includes/customizer/customizer-options.php:2545
+msgid "Remove State / Province & Zip Code"
+msgstr "Eliminar estado/provincia y código postal"
+
+#: includes/customizer/customizer-options.php:2538
+msgid "Remove Town / City"
+msgstr "Quitar Población/Ciudad"
+
+#: includes/customizer/customizer-options.php:2531
+msgid "Remove Address"
+msgstr "Eliminar la dirección"
+
+#: includes/customizer/customizer-options.php:2524
+msgid "Remove Company Name"
+msgstr "Eliminar el nombre de la empresa"
+
+#: includes/customizer/customizer-options.php:2517
+msgid "Remove Last Name"
+msgstr "Quitar el apellido"
+
+#: includes/customizer/customizer-options.php:2513
+msgid "Depending on your theme, the removal of these settings might not work. Edit these settings and then check the site front-end to see if they work."
+msgstr "Dependiendo de tu tema, es posible que la eliminación de estas configuraciones no funcione. Edita estas configuraciones y luego verifica la interfaz del sitio para ver si funcionan."
+
+#: includes/customizer/customizer-options.php:2510
+msgid "Remove Checkout Fields"
+msgstr "Eliminar campos de «Finalizar compra»"
+
+#: includes/customizer/customizer-options.php:2506
+msgid "Your personal data will help us create your account and to support your user experience throughout this website. Please have a look at our Privacy Policy for more information on how we use your personal data"
+msgstr "Tus datos personales nos ayudarán a crear tu cuenta y a dar sopoerte a tu experiencia de usuario en este sitio web. Echa un vistazo a nuestra política de privacidad para obtener más información sobre cómo utilizamos tus datos personales."
+
+#: includes/customizer/customizer-options.php:2505
+msgid "This will only show up once you refresh and/or go to the Checkout page."
+msgstr "Esto solo aparecerá una vez que actualices y/o vayas a la página de pago."
+
+#: includes/customizer/customizer-options.php:2502
+msgid "Custom Text"
+msgstr "Texto personalizado"
+
+#: includes/customizer/customizer-options.php:2495
+msgid "Add Text under Place Order button"
+msgstr "Añadir texto debajo del botón «Realizar pedido»"
+
+#: includes/customizer/customizer-options.php:2459
+msgid "Center Image"
+msgstr "Centrar imagen"
+
+#: includes/customizer/customizer-options.php:2454
+msgid "Upload this image at the correct size."
+msgstr "Sube esta imagen en el tamaño correcto."
+
+#: includes/customizer/customizer-options.php:2451
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: includes/customizer/customizer-options.php:2446
+msgid "This can be used to ensure that the site is secure for your users."
+msgstr "Esto se puede utilizar para garantizar que el sitio sea seguro para tus usuarios."
+
+#: includes/customizer/customizer-options.php:2443
+msgid "Add Custom Image"
+msgstr "Añadir una imagen personalizada"
+
+#: includes/customizer/customizer-options.php:2439
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr "Notas sobre tu pedido, p.ej. notas especiales para la entrega."
+
+#: includes/customizer/customizer-options.php:2436
+msgid "Placeholder Text"
+msgstr "Texto del marcador de posición"
+
+#: includes/customizer/customizer-options.php:2432
+msgid "Order notes"
+msgstr "Notas del pedido"
+
+#: includes/customizer/customizer-options.php:2429
+msgid "Label Text"
+msgstr "Texto de la etiqueta"
+
+#: includes/customizer/customizer-options.php:2422
+msgid "Edit Order Notes Text"
+msgstr "Editar el texto de las notas del pedido"
+
+#: includes/customizer/customizer-options.php:2418
+msgid "If you have a coupon code, please apply it below."
+msgstr "Si tienes un código de cupón, por favor, aplícalo abajo."
+
+#: includes/customizer/customizer-options.php:2415
+msgid "Coupon Text"
+msgstr "Texto del cupón"
+
+#: includes/customizer/customizer-options.php:2411
+msgid "Click here to enter your code"
+msgstr "Haz clic aquí para introducir tu código"
+
+#: includes/customizer/customizer-options.php:2408
+msgid "Coupon Code Link Text"
+msgstr "Texto del enlace del código de cupón"
+
+#: includes/customizer/customizer-options.php:2404
+msgid "Have a coupon?"
+msgstr "¿Tienes un cupón?"
+
+#: includes/customizer/customizer-options.php:2401
+msgid "Coupon Code Text"
+msgstr "Texto del código del cupón"
+
+#: includes/customizer/customizer-options.php:2394
+msgid "Edit Coupon Section Text"
+msgstr "Editar el texto de la sección del cupón"
+
+#: includes/customizer/customizer-options.php:2377
+msgid "%1$s offers extra functionlaity to direct users straight to the checkout page, add the cart table to the checkout page & more customization settings for this feature."
+msgstr "%1$s ofrece funcionalidad adicional para dirigir a los usuarios directamente a la página de pago, añade la tabla del carrito a la página de pago y más ajustes de personalización para esta característica."
+
+#: includes/customizer/customizer-options.php:2369
+msgid "Direct Checkout"
+msgstr "Pago directo"
+
+#: includes/customizer/customizer-options.php:2363
+#: includes/customizer/customizer-options.php:2381
+msgid "Checkout Page"
+msgstr "Página de finalizar compra"
+
+#: includes/customizer/customizer-options.php:2300
+msgid "Proceed to checkout"
+msgstr "Proceder al pago"
+
+#: includes/customizer/customizer-options.php:2290
+msgid "Customize \"Proceed To Checkout\" button"
+msgstr "Personalizar botón de «Finalizar compra»"
+
+#: includes/customizer/customizer-options.php:2254
+msgid "Customize cart table buttons"
+msgstr "Personalizar los botones de la tabla del carrito"
+
+#: includes/customizer/customizer-options.php:2249
+msgid "These buttons should be designed by the theme. We try offer extra customization for these elements. If these don't work, please get in contact for help."
+msgstr "Estos botones deben estar diseñados por el tema. Intentamos ofrecer personalización adicional para estos elementos. Si esto no funciona, ponte en contacto para obtener ayuda."
+
+#: includes/customizer/customizer-options.php:2225
+#: includes/customizer/customizer-options.php:2282
+#: includes/customizer/customizer-options.php:2353
+#: includes/customizer/customizer-options.php:2653
+msgid "Hover Font Color"
+msgstr "Color de la fuente al pasar el cursor"
+
+#: includes/customizer/customizer-options.php:2176
+msgid "\"Return To Shop\" button design"
+msgstr "Diseño del botón «Volver a la tienda»"
+
+#: includes/customizer/customizer-options.php:2168
+msgid "Select the page this button links to"
+msgstr "Selecciona la página a la que enlaza este botón"
+
+#: includes/customizer/customizer-options.php:2164
+msgid "Return to shop"
+msgstr "Volver a la tienda"
+
+#: includes/customizer/customizer-options.php:2154
+msgid "Edit 'Return to Shop' button"
+msgstr "Editar el botón de «Volver a la tienda»"
+
+#: includes/customizer/customizer-options.php:2150
+msgid "Some Extra Text"
+msgstr "Algún texto adicional"
+
+#: includes/customizer/customizer-options.php:2149
+msgid "This will only show on the Empty Cart Page"
+msgstr "Esto solo se mostrará en la página de carrito vacío."
+
+#: includes/customizer/customizer-options.php:2146
+msgid "Page Text"
+msgstr "Texto de la página"
+
+#: includes/customizer/customizer-options.php:2139
+msgid "Add Custom Text to Empty Cart Page"
+msgstr "Añadir texto personalizado a la página de carrito vacío"
+
+#: includes/customizer/customizer-options.php:2134
+msgid "Remove all products from your cart when editing this section"
+msgstr "Eliminar todos los productos de tu carrito al editar esta sección"
+
+#: includes/customizer/customizer-options.php:2132
+msgid "Empty Cart Page"
+msgstr "Página de carrito vacío"
+
+#: includes/customizer/customizer-options.php:2126
+msgid "Cart totals"
+msgstr "Totales del carrito"
+
+#: includes/customizer/customizer-options.php:2115
+#: includes/customizer/customizer-options.php:2123
+msgid "Cart Totals Title"
+msgstr "Título del total del carrito"
+
+#: includes/customizer/customizer-options.php:2103
+msgid "Amount of Cross Sells to show"
+msgstr "Cantidad de ventas cruzadas a mostrar"
+
+#: includes/customizer/customizer-options.php:2085
+msgid "You may be interested in&hellip;"
+msgstr "Puede que te interese…"
+
+#: includes/customizer/customizer-options.php:2074
+#: includes/customizer/customizer-options.php:2082
+msgid "Cross Sells Title"
+msgstr "Título de ventas cruzadas"
+
+#: includes/customizer/customizer-options.php:2062
+msgid "Remove Cross Sell Section"
+msgstr "Eliminar la sección de ventas cruzadas"
+
+#: includes/customizer/customizer-options.php:2055
+msgid "Move Cross Sells to below Cart Totals"
+msgstr "Mover las ventas cruzadas debajo de los totales del carrito"
+
+#: includes/customizer/customizer-options.php:2049
+msgid "Cross Sells & Cart Totals"
+msgstr "Ventas cruzadas y totales del carrito"
+
+#: includes/customizer/customizer-options.php:2031
+#: includes/customizer/customizer-options.php:2477
+msgid "You Save!"
+msgstr "¡Ahorras!"
+
+#: includes/customizer/customizer-options.php:2023
+#: includes/customizer/customizer-options.php:2469
+msgid "This will display the total amount a user saves when purchasing products On Sale!"
+msgstr "¡Esto mostrará la cantidad total que ahorra un usuario al comprar productos en oferta!"
+
+#: includes/customizer/customizer-options.php:2020
+#: includes/customizer/customizer-options.php:2466
+msgid "Show Discount / Amount Saved"
+msgstr "Mostrar descuento/cantidad ahorrada"
+
+#: includes/customizer/customizer-options.php:2012
+msgid "Button Alignment"
+msgstr "Alineamiento del botón"
+
+#: includes/customizer/customizer-options.php:2000
+msgid "Font Hover Color"
+msgstr "Color de la fuente al pasar el cursor"
+
+#: includes/customizer/customizer-options.php:1993
+#: includes/customizer/customizer-options.php:2218
+#: includes/customizer/customizer-options.php:2275
+#: includes/customizer/customizer-options.php:2346
+#: includes/customizer/customizer-options.php:2646
+msgid "Hover Color"
+msgstr "Color al pasar el cursor"
+
+#: includes/customizer/customizer-options.php:1979
+#: includes/customizer/customizer-options.php:2035
+#: includes/customizer/customizer-options.php:2204
+#: includes/customizer/customizer-options.php:2261
+#: includes/customizer/customizer-options.php:2332
+#: includes/customizer/customizer-options.php:2481
+#: includes/customizer/customizer-options.php:2632
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: includes/customizer/customizer-options.php:1973
+msgid "Button Custom URL"
+msgstr "URL personalizada del botón"
+
+#: includes/customizer/customizer-options.php:1965
+msgid "Button Type"
+msgstr "Tipo de botón"
+
+#: includes/customizer/customizer-options.php:1957
+msgid "Back to Shop"
+msgstr "Volver a la tienda"
+
+#: includes/customizer/customizer-options.php:1946
+msgid "Button Position"
+msgstr "Posición del botón"
+
+#: includes/customizer/customizer-options.php:1936
+msgid "Add a button to the cart page for customers to return to the Shop instead of proceeding to checkout."
+msgstr "Añade un botón a la página del carrito para que los clientes regresen a la Tienda en lugar de realizar el pago."
+
+#: includes/customizer/customizer-options.php:1933
+msgid "Add a 'Back To Shop' button"
+msgstr "Añadir un botón «Volver a la tienda»"
+
+#: includes/customizer/customizer-options.php:1926
+msgid "Show Product Stock "
+msgstr "Mostrar existencias de producto "
+
+#: includes/customizer/customizer-options.php:1921
+msgid "To see this work, please save and hard refresh or open the site in a new tab.<br /><br />By default WooCommerce does this if the product has 4 variations or more, it it only has 2 then it adds the selected variations to the product title.<br /><br />This will always show the product variations that the user selected below the product title."
+msgstr "Para ver este trabajo, guarda y actualiza o abre el sitio en una nueva pestaña.<br /><br />Por defecto, WooCommerce hace esto si el producto tiene 4 variaciones o más. Si solo tiene 2, entonces agrega las variaciones seleccionadas al título del producto.<br /><br />Esto siempre mostrará las variaciones del producto que el usuario seleccionó debajo del título del producto."
+
+#: includes/customizer/customizer-options.php:1918
+msgid "Show the users selected variations"
+msgstr "Mostrar las variaciones seleccionadas por los usuarios."
+
+#: includes/customizer/customizer-options.php:1911
+msgid "Show Product Categories "
+msgstr "Mostrar categorías de productos "
+
+#: includes/customizer/customizer-options.php:1904
+msgid "Add extra Product Information "
+msgstr "Añadir información adicional del producto "
+
+#: includes/customizer/customizer-options.php:1899
+msgid "This will remove the Product Links in the cart, depending on your theme, this might break the design."
+msgstr "Esto eliminará los enlaces a los productos en el carrito; dependiendo de tu tema, esto podría romper el diseño."
+
+#: includes/customizer/customizer-options.php:1896
+msgid "Remove Product Links "
+msgstr "Eliminar enlaces de producto "
+
+#: includes/customizer/customizer-options.php:1891
+msgid "Users will not need to click 'Update Cart' anymore, this will remove the update button and will auto update the cart as users change the product amounts."
+msgstr "Los usuarios ya no necesitarán hacer clic en «Actualizar carrito», esto eliminará el botón de actualización y actualizará automáticamente el carrito a medida que los usuarios cambien las cantidades de los productos."
+
+#: includes/customizer/customizer-options.php:1888
+msgid "Auto Update Cart Amount"
+msgstr "Actualización automática del importe del carrito"
+
+#: includes/customizer/customizer-options.php:1883
+msgid "This will stop users being able to adjust the product amounts in the cart"
+msgstr "Esto impedirá que los usuarios puedan ajustar las cantidades de productos en el carrito."
+
+#: includes/customizer/customizer-options.php:1880
+msgid "Disable users adjusting the quantity "
+msgstr "Desctivar que los usuarios puedan ajustar la cantidad "
+
+#: includes/customizer/customizer-options.php:1876
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+#: includes/customizer/customizer-options.php:1873
+#: includes/customizer/customizer-options.php:1954
+#: includes/customizer/customizer-options.php:2297
+#: includes/customizer/customizer-options.php:2597
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: includes/customizer/customizer-options.php:1869
+msgid "Coupon code"
+msgstr "Código del cupón"
+
+#: includes/customizer/customizer-options.php:1866
+msgid "Input Placeholder Text"
+msgstr "Introducir el texto del marcador de posición"
+
+#: includes/customizer/customizer-options.php:1859
+msgid "Edit coupon and button text "
+msgstr "Editar texto del cupón y del botón "
+
+#: includes/customizer/customizer-options.php:1852
+#: includes/customizer/customizer-options.php:2387
+msgid "Remove Coupons form"
+msgstr "Eliminar el formulario del cupón"
+
+#: includes/customizer/customizer-options.php:1846
+msgid "Cart Page"
+msgstr "Página de carrito"
+
+#: includes/customizer/customizer-options.php:1827
+msgid "Logout Tab"
+msgstr "Pestaña de cerrar sesión"
+
+#: includes/customizer/customizer-options.php:1810
+#: includes/customizer/customizer-options.php:1817
+msgid "Account Details"
+msgstr "Detalles de la cuenta"
+
+#: includes/customizer/customizer-options.php:1799
+msgid "Account Details Tab"
+msgstr "Pestaña de detalles de la cuenta"
+
+#: includes/customizer/customizer-options.php:1782
+#: includes/customizer/customizer-options.php:1789
+#: includes/inc/woocommerce.php:1501
+msgid "Addresses"
+msgstr "Direcciones"
+
+#: includes/customizer/customizer-options.php:1771
+msgid "Address Tab"
+msgstr "Pestaña de direcciones"
+
+#: includes/customizer/customizer-options.php:1754
+#: includes/customizer/customizer-options.php:1761
+#: includes/inc/woocommerce.php:1493
+msgid "Downloads"
+msgstr "Descargas"
+
+#: includes/customizer/customizer-options.php:1743
+msgid "Downloads Tab"
+msgstr "Pestaña de descargas"
+
+#: includes/customizer/customizer-options.php:1730
+#: includes/customizer/customizer-options.php:1758
+#: includes/customizer/customizer-options.php:1786
+#: includes/customizer/customizer-options.php:1814
+msgid "Page Title"
+msgstr "Título de la página"
+
+#: includes/customizer/customizer-options.php:1726
+#: includes/customizer/customizer-options.php:1733
+#: includes/inc/woocommerce.php:1485
+msgid "Orders"
+msgstr "Pedidos"
+
+#: includes/customizer/customizer-options.php:1715
+msgid "Orders Tab"
+msgstr "Pestaña de pedidos"
+
+#: includes/customizer/customizer-options.php:1704
+msgid "Select the page you'd like to display in the Dashboard tab."
+msgstr "Selecciona la página que quieres mostrar en la pestaña Escritorio."
+
+#: includes/customizer/customizer-options.php:1701
+msgid "Select Page"
+msgstr "Seleccionar página"
+
+#: includes/customizer/customizer-options.php:1697
+msgid "Note: Please DO NOT set this to display the Account Page, this will create an infinite loop and cause a timeout issue."
+msgstr "Nota: NO configures esto para mostrar la página de cuenta, esto creará un bucle infinito y provocará un problema de tiempo de espera."
+
+#: includes/customizer/customizer-options.php:1681
+msgid "Remove default dashboard text"
+msgstr "Eliminar el texto por defecto del escritorio"
+
+#: includes/customizer/customizer-options.php:1673
+msgid "Dashboard Tab Content"
+msgstr "Contenido de la pestaña del escritorio"
+
+#: includes/customizer/customizer-options.php:1664
+#: includes/inc/woocommerce.php:1469
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: includes/customizer/customizer-options.php:1661
+msgid "Dashboard Tab Title"
+msgstr "Título de la pestaña de escritorio"
+
+#: includes/customizer/customizer-options.php:1653
+msgid "Account Dashboard Tab"
+msgstr "Pestaña de escritorio de la cuenta"
+
+#: includes/customizer/customizer-options.php:1642
+msgid "Account Tabs"
+msgstr "Pestañas de la cuenta"
+
+#: includes/customizer/customizer-options.php:1636
+msgid "Account Tab Design is only for if your theme has not added custom styling to your WooCommerce Account Page."
+msgstr "El diseño de la pestaña de cuenta es solo si tu tema no ha añadido un estilo personalizado a tu página de cuenta de WooCommerce."
+
+#: includes/customizer/customizer-options.php:1632
+msgid "Account Tab Design"
+msgstr "Diseño de la pestaña de cuenta"
+
+#: includes/customizer/customizer-options.php:1621
+msgid "Account Page"
+msgstr "Página de cuenta"
+
+#: includes/customizer/customizer-options.php:1604
+msgid "Button Padding"
+msgstr "Relleno del botón"
+
+#: includes/customizer/customizer-options.php:1568
+msgid "Customize 'Continue Shopping' Button"
+msgstr "Personalizar el botón «Seguir comprando»"
+
+#: includes/customizer/customizer-options.php:1532
+msgid "Customize Product Button Colors"
+msgstr "Personalizar los colores del botón de producto"
+
+#: includes/customizer/customizer-options.php:1440
+msgid "Related products"
+msgstr "Productos relacionados"
+
+#: includes/customizer/customizer-options.php:1437
+msgid "Related Products Title"
+msgstr "Título de «Productos relacionados»"
+
+#: includes/customizer/customizer-options.php:1429
+msgid "Related Products"
+msgstr "Productos relacionados"
+
+#: includes/customizer/customizer-options.php:1417
+#: includes/customizer/customizer-options.php:1458
+msgid "Amount of products to show"
+msgstr "Cantidad de productos a mostrar"
+
+#: includes/customizer/customizer-options.php:1399
+msgid "You may also like&hellip;"
+msgstr "También te puede gustar…"
+
+#: includes/customizer/customizer-options.php:1396
+msgid "Recommendations Title"
+msgstr "Título de las recomendaciones"
+
+#: includes/customizer/customizer-options.php:1388
+msgid "Product Recommendations"
+msgstr "Recomendaciones de productos"
+
+#: includes/customizer/customizer-options.php:1377
+msgid "Related & Recommended Products"
+msgstr "Productos relacionados y recomendados"
+
+#: includes/customizer/customizer-options.php:1313
+msgid "Add Product Reviews after Tabs"
+msgstr "Añadir reseñas de productos después de las pestañas"
+
+#: includes/customizer/customizer-options.php:1249
+msgid "Add Product Additional Info after Tabs"
+msgstr "Añadir información adicional del producto después de las pestañas"
+
+#: includes/customizer/customizer-options.php:1241
+#: includes/customizer/customizer-options.php:1305
+#: includes/customizer/customizer-options.php:1369
+msgid "Add Bottom Divider"
+msgstr "Añadir divisor inferior"
+
+#: includes/customizer/customizer-options.php:1228
+#: includes/customizer/customizer-options.php:1292
+#: includes/customizer/customizer-options.php:1356
+msgid "Bottom Spacing"
+msgstr "Espaciado inferior"
+
+#: includes/customizer/customizer-options.php:1214
+#: includes/customizer/customizer-options.php:1278
+#: includes/customizer/customizer-options.php:1342
+msgid "Top Spacing"
+msgstr "Espaciado superior"
+
+#: includes/customizer/customizer-options.php:1206
+msgid "Center Align Text"
+msgstr "Alinear el texto al centro"
+
+#: includes/customizer/customizer-options.php:1199
+#: includes/customizer/customizer-options.php:1270
+#: includes/customizer/customizer-options.php:1334
+msgid "Max-Width for this section"
+msgstr "Ancho máximo para esta sección"
+
+#: includes/customizer/customizer-options.php:1191
+#: includes/customizer/customizer-options.php:1262
+#: includes/customizer/customizer-options.php:1326
+msgid "Divider Style"
+msgstr "Estilo del separador"
+
+#: includes/customizer/customizer-options.php:1178
+msgid "Add Product Long Description after Tabs"
+msgstr "Añadir la descripción larga del producto después de las pestañas"
+
+#: includes/customizer/customizer-options.php:1172
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: includes/customizer/customizer-options.php:1161
+msgid "Reviews Tab"
+msgstr "Pestaña de reseñas"
+
+#: includes/customizer/customizer-options.php:1144
+#: includes/customizer/customizer-options.php:1151
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: includes/customizer/customizer-options.php:1133
+msgid "Additional Info Tab"
+msgstr "Pestaña de información adicional"
+
+#: includes/customizer/customizer-options.php:1120
+#: includes/customizer/customizer-options.php:1148
+msgid "Tab Heading"
+msgstr "Encabezado de la pestaña"
+
+#: includes/customizer/customizer-options.php:1116
+#: includes/customizer/customizer-options.php:1123
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/customizer/customizer-options.php:1113
+#: includes/customizer/customizer-options.php:1141
+#: includes/customizer/customizer-options.php:1169
+#: includes/customizer/customizer-options.php:1723
+#: includes/customizer/customizer-options.php:1751
+#: includes/customizer/customizer-options.php:1779
+#: includes/customizer/customizer-options.php:1807
+#: includes/customizer/customizer-options.php:1835
+msgid "Tab Title"
+msgstr "Título de la pestaña"
+
+#: includes/customizer/customizer-options.php:1105
+msgid "Description Tab"
+msgstr "Pestaña de descripción"
+
+#: includes/customizer/customizer-options.php:1094
+msgid "Product Page Tabs"
+msgstr "Pestañas de la página del producto"
+
+#: includes/customizer/customizer-options.php:1089
+msgid "%1$s offers a sticky 'Add to Cart' banner for the WooCommerce Product page.<br /><br />The Add to Cart banner slides into view once the standard add-to-cart button has scrolled out of view."
+msgstr "%1$s ofrece un banner fijo «Añadir al carrito» para la página de producto de WooCommerce.<br /><br />El banner «Añadir al carrito» se visualiza una vez que el botón estándar «Añadir al carrito» se ha desplazado fuera de la vista."
+
+#: includes/customizer/customizer-options.php:1081
+msgid "Sticky 'Add to Cart'"
+msgstr "«Añadir al carrito» fijo"
+
+#: includes/customizer/customizer-options.php:1076
+msgid "In Stock"
+msgstr "Hay existencias"
+
+#: includes/customizer/customizer-options.php:1075
+msgid "If not managing stock at a product level, by default nothing shows. Add default 'In Stock' text if you want to show the product is in stock."
+msgstr "Si no se gestiona el inventario a nivel de producto, por defecto no se muestra nada. Añade el texto predeterminado «Hay existencias» si quieres mostrar que hay existencias del producto."
+
+#: includes/customizer/customizer-options.php:1072
+msgid "Stock Text"
+msgstr "Texto de «Existencias»"
+
+#: includes/customizer/customizer-options.php:1065
+msgid "Always Show Stock Status Types"
+msgstr "Mostrar siempre los tipos de estado de las existencias"
+
+#: includes/customizer/customizer-options.php:1061
+msgid "On Back Order"
+msgstr "Pedido realizado"
+
+#: includes/customizer/customizer-options.php:1058
+msgid "On Back Order Text"
+msgstr "Texto de «Resevar»"
+
+#: includes/customizer/customizer-options.php:1054
+msgid "Stock Available"
+msgstr "Existencias disponibles"
+
+#: includes/customizer/customizer-options.php:1053
+msgid "Managing stock at a product level, you can display the stock amount here by using \"[no]\" in the text to display the amount, or simply add your own text."
+msgstr "Al gestionar las existencias a nivel de producto, puedes mostrar la cantidad de las mismas aquí usando «[no]» en el texto para mostrar la cantidad, o simplemente añadir tu propio texto."
+
+#: includes/customizer/customizer-options.php:1050
+msgid "In Stock Text"
+msgstr "Texto de «Hay existencias»"
+
+#: includes/customizer/customizer-options.php:1046
+msgid "Out Of Stock"
+msgstr "Sin existencias"
+
+#: includes/customizer/customizer-options.php:1043
+msgid "Out Of Stock Text"
+msgstr "Texto para «Sin existencias»"
+
+#: includes/customizer/customizer-options.php:1038
+msgid "Currently only available for Simple Products."
+msgstr "Actualmente solo está disponible para productos simples."
+
+#: includes/customizer/customizer-options.php:1035
+msgid "Edit Stock Status Texts"
+msgstr "Editar los textos del estado de las existencias"
+
+#: includes/customizer/customizer-options.php:1027
+msgid "Increment / Decrement By"
+msgstr "Incrementar / Disminuir en"
+
+#: includes/customizer/customizer-options.php:1020
+msgid "Maximum Value Allowed"
+msgstr "Valor máximo permitido"
+
+#: includes/customizer/customizer-options.php:1013
+msgid "Minimum Value Allowed"
+msgstr "Valor mínimo permitido"
+
+#: includes/customizer/customizer-options.php:1006
+msgid "Set 'Add To Cart' Increment values"
+msgstr "Establecer los valores de incremento para «Agregar al carrito»"
+
+#: includes/customizer/customizer-options.php:1001
+msgid "Choose an option"
+msgstr "Elige una opción"
+
+#: includes/customizer/customizer-options.php:998
+msgid "Default Label"
+msgstr "Etiqueta por defecto"
+
+#: includes/customizer/customizer-options.php:991
+msgid "Edit Variable Product dropdown label"
+msgstr "Editar etiqueta desplegable de producto variable"
+
+#: includes/customizer/customizer-options.php:986
+msgid "If not set, this will default to the shop page.<br />Enter the full url, including 'https://'"
+msgstr "Si no se configura, se accederá de forma predeterminada a la página de la tienda.<br />Indica la URL completa, incluido 'https://'"
+
+#: includes/customizer/customizer-options.php:983
+msgid "Continue Shopping URL"
+msgstr "URL de «Seguir comprando»"
+
+#: includes/customizer/customizer-options.php:979
+msgid "Continue Shopping"
+msgstr "Seguir comprando"
+
+#: includes/customizer/customizer-options.php:978
+msgid "You can set custom button text and urls per product under Edit Product-> Product Data-> StoreCustomizer"
+msgstr "Puedes configurar el texto del botón personalizado y las URL por producto en Editar producto-> Datos del producto-> StoreCustomizer"
+
+#: includes/customizer/customizer-options.php:975
+msgid "Continue Shopping Text"
+msgstr "Texto de «Seguir comprando»"
+
+#: includes/customizer/customizer-options.php:968
+msgid "Add button to 'Continue Shopping'"
+msgstr "Agregar un botón para «Seguir comprando»"
+
+#: includes/customizer/customizer-options.php:964
+msgid "Items Sold: [no]"
+msgstr "Artículos vendidos: [no]"
+
+#: includes/customizer/customizer-options.php:963
+msgid "Use \"[no]\" in the text to display the amount sold."
+msgstr "Utilice «[no]» en el texto para mostrar la cantidad vendida."
+
+#: includes/customizer/customizer-options.php:960
+msgid "Amount Sold Text"
+msgstr "Texto de cantidad vendida"
+
+#: includes/customizer/customizer-options.php:953
+msgid "Show Amount Sold"
+msgstr "Mostrar la cantidad vendida"
+
+#: includes/customizer/customizer-options.php:946
+msgid "Remove Product Tags"
+msgstr "Eliminar etiquetas de producto"
+
+#: includes/customizer/customizer-options.php:939
+msgid "Remove Product Categories"
+msgstr "Eliminar categorías de producto"
+
+#: includes/customizer/customizer-options.php:932
+msgid "Remove SKU"
+msgstr "Quitar SKU"
+
+#: includes/customizer/customizer-options.php:925
+msgid "Product Button Text"
+msgstr "Texto del botón de producto"
+
+#: includes/customizer/customizer-options.php:918
+msgid "Edit Product Page Button"
+msgstr "Editar el botón de la página de producto"
+
+#: includes/customizer/customizer-options.php:914
+msgid "Boxes"
+msgstr "Cajas"
+
+#: includes/customizer/customizer-options.php:903
+msgid "Add a Quantity Input Suffix"
+msgstr "Añadir un sufijo de entrada de cantidad"
+
+#: includes/customizer/customizer-options.php:898
+msgid "Add the suffix to the product list and category pages too."
+msgstr "Añadir también el sufijo a la lista de productos y a las páginas de categorías."
+
+#: includes/customizer/customizer-options.php:895
+msgid "Add the suffix to Product Shop page"
+msgstr "Añadir el sufijo a la página de la tienda de productos"
+
+#: includes/customizer/customizer-options.php:891
+msgid "Incl. VAT"
+msgstr "IVA incluido"
+
+#: includes/customizer/customizer-options.php:888
+msgid "Product Price Suffix Text"
+msgstr "Texto del sufijo del precio del producto"
+
+#: includes/customizer/customizer-options.php:883
+#: includes/customizer/customizer-options.php:913
+msgid "Edit the suffix per product under Product Data -> StoreCustomizer on each product.<br /><br />To add a suffix to only certain products, simply add nothing here (and save), then edit the suffix setting on each product."
+msgstr "Edita el sufijo por producto en 'Datos del producto -> StoreCustomizer' en cada producto.<br /><br />Para añadir un sufijo solo a ciertos productos, simplemente no añadas nada aquí (y guárdalo), después edita el ajuste del sufijo en cada producto."
+
+#: includes/customizer/customizer-options.php:880
+msgid "Add a default Price Suffix"
+msgstr "Añadir un sufijo por defecto al precio"
+
+#: includes/customizer/customizer-options.php:875
+msgid "Add the prefix to the product list and category pages too."
+msgstr "Añadir también el prefijo a la lista de productos y páginas de categorías."
+
+#: includes/customizer/customizer-options.php:872
+msgid "Add the prefix to Product Shop page"
+msgstr "Añadir el prefijo a la página de la tienda de productos"
+
+#: includes/customizer/customizer-options.php:868
+msgid "From:"
+msgstr "De:"
+
+#: includes/customizer/customizer-options.php:865
+msgid "Product Price Prefix Text"
+msgstr "Texto del prefijo del precio del producto"
+
+#: includes/customizer/customizer-options.php:860
+msgid "Edit the prefix per product under Product Data -> StoreCustomizer on each product.<br /><br />To add a prefix to only certain products, simply add nothing here (and save), then edit the prefix setting on each product."
+msgstr "Edita el prefijo por producto en 'Datos del producto -> StoreCustomizer' en cada producto.<br /><br />Para añadir un prefijo solo a ciertos productos, simplemente no añadas nada aquí (y guárdalo), luego edita el ajuste del prefijo en cada producto."
+
+#: includes/customizer/customizer-options.php:857
+msgid "Add a default Price Prefix"
+msgstr "Añadir un prefijo al precio por defecto"
+
+#: includes/customizer/customizer-options.php:850
+msgid "Remove Product Title"
+msgstr "Quitar el título del producto"
+
+#: includes/customizer/customizer-options.php:838
+#: includes/customizer/customizer-options.php:1412
+#: includes/customizer/customizer-options.php:1453
+#: includes/customizer/customizer-options.php:2098
+msgid "<i>2</i> <b>|</b> 3 <b>|</b> 4 <b>|</b> <i>5</i>"
+msgstr "<i>2</i> <b>|</b> 3 <b>|</b> 4 <b>|</b> <i>5</i>"
+
+#: includes/customizer/customizer-options.php:830
+msgid "Product Image Thumbnails Per Row"
+msgstr "Miniaturas de imágenes de producto por fila"
+
+#: includes/customizer/customizer-options.php:823
+msgid "Remove Image Slider"
+msgstr "Quitar el carrusel de imágenes"
+
+#: includes/customizer/customizer-options.php:816
+msgid "Remove Image Lightbox"
+msgstr "Quitar la caja de luz de imágenes"
+
+#: includes/customizer/customizer-options.php:809
+msgid "Remove Image Zoom"
+msgstr "Quitar la ampliación de imagen"
+
+#: includes/customizer/customizer-options.php:802
+msgid "Remove Product Breadcrumbs"
+msgstr "Quitar las migas de pan del producto"
+
+#: includes/customizer/customizer-options.php:796
+msgid "WooCommerce Product Page"
+msgstr "Página de producto de WooCommerce"
+
+#: includes/customizer/customizer-options.php:786
+msgid "Apply these design settings to WooCommerce Blocks for Gutenberg"
+msgstr "Aplicar estos ajustes de diseño a los bloques de WooCommerce para Gutenberg"
+
+#: includes/customizer/customizer-options.php:756
+#: includes/customizer/customizer-options.php:1503
+msgid "Customize Product Price"
+msgstr "Personalizar el precio del producto"
+
+#: includes/customizer/customizer-options.php:748
+#: includes/customizer/customizer-options.php:777
+#: includes/customizer/customizer-options.php:1495
+#: includes/customizer/customizer-options.php:1524
+#: includes/customizer/customizer-options.php:1986
+#: includes/customizer/customizer-options.php:2042
+#: includes/customizer/customizer-options.php:2211
+#: includes/customizer/customizer-options.php:2268
+#: includes/customizer/customizer-options.php:2339
+#: includes/customizer/customizer-options.php:2488
+#: includes/customizer/customizer-options.php:2639
+msgid "Font Color"
+msgstr "Color de la fuente"
+
+#: includes/customizer/customizer-options.php:727
+#: includes/customizer/customizer-options.php:1474
+msgid "Customize Product Title"
+msgstr "Personalizar el título del producto"
+
+#: includes/customizer/customizer-options.php:691
+msgid "Sale Banner Color"
+msgstr "Color del banner «En oferta»"
+
+#: includes/customizer/customizer-options.php:663
+msgid "Customize Sale Banner"
+msgstr "Personalizar el banner «En oferta»"
+
+#: includes/customizer/customizer-options.php:649
+#: includes/customizer/customizer-options.php:713
+#: includes/customizer/customizer-options.php:2233
+#: includes/customizer/customizer-options.php:2319
+#: includes/customizer/customizer-options.php:2619
+msgid "Padding"
+msgstr "Relleno"
+
+#: includes/customizer/customizer-options.php:635
+#: includes/customizer/customizer-options.php:699
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: includes/customizer/customizer-options.php:627
+#: includes/customizer/customizer-options.php:1560
+msgid "Button Font Hover Color"
+msgstr "Color de la fuente del botón al pasar el cursor"
+
+#: includes/customizer/customizer-options.php:620
+#: includes/customizer/customizer-options.php:1553
+#: includes/customizer/customizer-options.php:1582
+msgid "Button Hover Color"
+msgstr "Color del botón al pasar el cursor"
+
+#: includes/customizer/customizer-options.php:613
+#: includes/customizer/customizer-options.php:1546
+msgid "Button Font Color"
+msgstr "Color de la fuente del botón"
+
+#: includes/customizer/customizer-options.php:606
+#: includes/customizer/customizer-options.php:1539
+#: includes/customizer/customizer-options.php:1575
+msgid "Button Color"
+msgstr "Color del botón"
+
+#: includes/customizer/customizer-options.php:599
+#: includes/customizer/customizer-options.php:684
+msgid "Bold"
+msgstr "Negrita"
+
+#: includes/customizer/customizer-options.php:586
+#: includes/customizer/customizer-options.php:671
+#: includes/customizer/customizer-options.php:735
+#: includes/customizer/customizer-options.php:764
+#: includes/customizer/customizer-options.php:1482
+#: includes/customizer/customizer-options.php:1511
+#: includes/customizer/customizer-options.php:1590
+#: includes/customizer/customizer-options.php:2191
+#: includes/customizer/customizer-options.php:2305
+#: includes/customizer/customizer-options.php:2605
+#: includes/customizer/customizer-options.php:2703
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: includes/customizer/customizer-options.php:577
+msgid "Button Style"
+msgstr "Estilo del botón"
+
+#: includes/customizer/customizer-options.php:565
+msgid "Customize Store Button(s) Design"
+msgstr "Personalizar el diseño de los botones de la tienda"
+
+#: includes/customizer/customizer-options.php:560
+#: includes/customizer/customizer-options.php:1469
+msgid "Depending on your theme, these design settings might not always work. If not, please contact us to help get these working with your theme."
+msgstr "Dependiendo de tu tema, es posible que estos ajustes de diseño no siempre funcionen. Si es así, contáctanos para ayudarte a que funcionen con tu tema."
+
+#: includes/customizer/customizer-options.php:557
+#: includes/customizer/customizer-options.php:1466
+#: includes/customizer/customizer-options.php:2246
+#: includes/customizer/customizer-options.php:2582
+msgid "Design Elements"
+msgstr "Elementos de diseño"
+
+#: includes/customizer/customizer-options.php:549
+msgid "Remove Archives Title"
+msgstr "Quitar el título de los archivos"
+
+#: includes/customizer/customizer-options.php:542
+msgid "Remove Shop Archive Breadcrumbs"
+msgstr "Quitar las migas de pan del archivo de la tienda"
+
+#: includes/customizer/customizer-options.php:535
+msgid "Remove Category Count"
+msgstr "Quitar el recuento de categorías"
+
+#: includes/customizer/customizer-options.php:529
+msgid "Shop Archive / Categories Pages"
+msgstr "Páginas de archivo de tienda / categorías"
+
+#: includes/customizer/customizer-options.php:521
+msgid "Badge Color"
+msgstr "Color de la insignia"
+
+#: includes/customizer/customizer-options.php:513
+msgid "Badge Position"
+msgstr "Posición de la insignia"
+
+#: includes/customizer/customizer-options.php:503
+msgid "New Product"
+msgstr "Nuevo producto"
+
+#: includes/customizer/customizer-options.php:500
+msgid "New Product Badge Text"
+msgstr "Texto de la insignia de nuevo producto"
+
+#: includes/customizer/customizer-options.php:495
+msgid "The \"New\" badge will only display on products where the \"Published On\" date is less that the number of days specified here."
+msgstr "La insignia «Nuevo» solo se mostrará en productos en los que la fecha «Publicado el» sea menor que la cantidad de días especificada aquí."
+
+#: includes/customizer/customizer-options.php:492
+msgid "Days to determine if product is \"New\""
+msgstr "Días para determinar si el producto es «nuevo»"
+
+#: includes/customizer/customizer-options.php:485
+msgid "Add a \"New\" badge for recently added products"
+msgstr "Añadir una insignia «Nuevo» para los productos añadidos recientemente"
+
+#: includes/customizer/customizer-options.php:480
+msgid "View products"
+msgstr "Ver productos"
+
+#: includes/customizer/customizer-options.php:477
+msgid "Grouped Product Button Text"
+msgstr "Texto del botón de productos agrupados"
+
+#: includes/customizer/customizer-options.php:473
+msgid "Select Options"
+msgstr "Seleccionar las opciones"
+
+#: includes/customizer/customizer-options.php:470
+msgid "Variable Product Button Text"
+msgstr "Texto del botón de producto variable"
+
+#: includes/customizer/customizer-options.php:466
+#: includes/customizer/customizer-options.php:928
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: includes/customizer/customizer-options.php:463
+msgid "Simple Product Button Text"
+msgstr "Texto del botón de producto simple"
+
+#: includes/customizer/customizer-options.php:456
+msgid "Edit Shop Button Texts"
+msgstr "Editar los textos de los botones de la tienda"
+
+#: includes/customizer/customizer-options.php:452
+msgid "[no] left in stock!"
+msgstr "¡Queda(n) [no] disponible(s)!"
+
+#: includes/customizer/customizer-options.php:449
+msgid "Stock Amount Text"
+msgstr "Texto de la cantidad disponible"
+
+#: includes/customizer/customizer-options.php:445
+msgid "Only [no] left in stock!"
+msgstr "¡Solo queda(n) [no] disponible(s)!"
+
+#: includes/customizer/customizer-options.php:444
+msgid "If the product stock is 3 or less"
+msgstr "Si las existencias del producto son 3 o menos"
+
+#: includes/customizer/customizer-options.php:441
+msgid "Low Stock Amount Text"
+msgstr "Texto de cantidad de pocas existencias"
+
+#: includes/customizer/customizer-options.php:436
+msgid "This uses the stock set at product level.<br /><br />Use \"[no]\" in the text to display the stock amount."
+msgstr "Esto utiliza el inventario establecido a nivel de producto.<br /><br />Utiliza «[no]» en el texto para mostrar la cantidad de existencias."
+
+#: includes/customizer/customizer-options.php:433
+msgid "Show stock amount for Users"
+msgstr "Mostrar las existencias a los usuarios"
+
+#: includes/customizer/customizer-options.php:429
+msgid "SOLD OUT"
+msgstr "AGOTADO"
+
+#: includes/customizer/customizer-options.php:426
+msgid "Sold Out Banner Text"
+msgstr "Texto del banner «Agotado»"
+
+#: includes/customizer/customizer-options.php:418
+msgid "Sold Out Banner Style"
+msgstr "Estilo del banner «Agotado»"
+
+#: includes/customizer/customizer-options.php:407
+msgid "Add a banner to Sold Out products"
+msgstr "Añadir un banner a los productos agotados"
+
+#: includes/customizer/customizer-options.php:403
+#: includes/customizer/customizer-options.php:846
+msgid "Sale!"
+msgstr "¡Oferta!"
+
+#: includes/customizer/customizer-options.php:400
+#: includes/customizer/customizer-options.php:843
+msgid "Sale Banner Text"
+msgstr "Texto del banner de oferta"
+
+#: includes/customizer/customizer-options.php:395
+msgid "<i>1</i> <b>|</b> 2 <b>|</b> 3 <b>|</b> 4 <b>|</b> <i>5</i>"
+msgstr "<i>1</i> <b>|</b> 2 <b>|</b> 3 <b>|</b> 4 <b>|</b> <i>5</i>"
+
+#: includes/customizer/customizer-options.php:387
+#: includes/customizer/customizer-options.php:1404
+#: includes/customizer/customizer-options.php:1445
+#: includes/customizer/customizer-options.php:2090
+msgid "Products Per Row"
+msgstr "Productos por fila"
+
+#: includes/customizer/customizer-options.php:374
+msgid "Products Per Page"
+msgstr "Productos por página"
+
+#: includes/customizer/customizer-options.php:366
+msgid "Turn off Editing Products per row/page"
+msgstr "Desactivar la edición de productos por fila/página"
+
+#: includes/customizer/customizer-options.php:359
+msgid "Remove Shop Sorting Results"
+msgstr "Quitar los resultados de ordenación de la tienda"
+
+#: includes/customizer/customizer-options.php:352
+msgid "Remove Shop Sorting Dropdown"
+msgstr "Quitarla lista desplegable de ordenación de la tienda"
+
+#: includes/customizer/customizer-options.php:345
+msgid "Remove Shop Title"
+msgstr "Quitar el título de la tienda"
+
+#: includes/customizer/customizer-options.php:338
+msgid "Remove Shop Page Breadcrumbs"
+msgstr "Quitar las migas de pan de la página de la tienda"
+
+#: includes/customizer/customizer-options.php:332
+msgid "WooCommerce Shop Page"
+msgstr "Página de la tienda de WooCommerce"
+
+#: includes/customizer/customizer-options.php:316
+msgid "Bottom Margin"
+msgstr "Margen inferior"
+
+#: includes/customizer/customizer-options.php:302
+msgid "Max Width"
+msgstr "Anchura máxima"
+
+#: includes/customizer/customizer-options.php:294
+msgid "Notice Color"
+msgstr "Color del aviso"
+
+#: includes/customizer/customizer-options.php:287
+#: includes/customizer/customizer-options.php:2183
+msgid "Center Align"
+msgstr "Alinear al centro"
+
+#: includes/customizer/customizer-options.php:274
+msgid "Text Size"
+msgstr "Tamaño del texto"
+
+#: includes/customizer/customizer-options.php:260
+msgid "Title Size"
+msgstr "Tamaño del título"
+
+#: includes/customizer/customizer-options.php:251
+msgid "Design"
+msgstr "Diseño"
+
+#: includes/customizer/customizer-options.php:238
+msgid "Edit Design"
+msgstr "Editar el diseño"
+
+#: includes/customizer/customizer-options.php:230
+msgid "Add to Checkout page"
+msgstr "Añadir a la página de finalizar compra"
+
+#: includes/customizer/customizer-options.php:213
+msgid "Add to Cart page"
+msgstr "Añadir a la página del carrito"
+
+#: includes/customizer/customizer-options.php:197
+msgid "Add to Product pages"
+msgstr "Añadir a las páginas de producto"
+
+#: includes/customizer/customizer-options.php:180
+msgid "Include Category & Archive pages"
+msgstr "Incluir las páginas de archivo y categoría"
+
+#: includes/customizer/customizer-options.php:172
+msgid "Add to Shop & Archive pages"
+msgstr "Añadir a las páginas de archivo y tienda"
+
+#: includes/customizer/customizer-options.php:162
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nec diam eu convallis. Nullam quis ipsum volutpat, porta ex sit amet, posuere lorem."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nec diam eu convallis. Nullam quis ipsum volutpat, porta ex sit amet, posuere lorem."
+
+#: includes/customizer/customizer-options.php:161
+msgid "You can use styling tags and inline CSS to further style the text in the notice."
+msgstr "Puedes utilizar etiquetas de estilo y CSS en línea para darle más estilo al texto del aviso."
+
+#: includes/customizer/customizer-options.php:158
+#: includes/customizer/customizer-options.php:910
+#: includes/customizer/customizer-options.php:1688
+#: includes/customizer/customizer-options.php:2028
+#: includes/customizer/customizer-options.php:2161
+#: includes/customizer/customizer-options.php:2474
+msgid "Text"
+msgstr "Texto"
+
+#: includes/customizer/customizer-options.php:154
+msgid "Please Note!"
+msgstr "¡Tenlo en cuenta!"
+
+#: includes/customizer/customizer-options.php:151
+msgid "Title"
+msgstr "Título"
+
+#: includes/customizer/customizer-options.php:146
+msgid "Depending on your theme, the position of these hooks might change slightly"
+msgstr "Dependiendo de tu tema, la posición de estos ganchos puede cambiar ligeramente"
+
+#: includes/customizer/customizer-options.php:143
+msgid "Add a notice to WooCommerce pages"
+msgstr "Añadir un aviso a las páginas de WooCommerce"
+
+#: includes/customizer/customizer-options.php:137
+msgid "WooCommerce Page/s Notice"
+msgstr "Aviso en las páginas de WooCommerce"
+
+#: includes/customizer/customizer-options.php:131
+msgid "Select which page to redirect the user to after LOGGING OUT. Defaults to Home."
+msgstr "Selecciona a qué página se debe redirigir al usuario después de desconectarse. Por defecto es Inicio."
+
+#: includes/customizer/customizer-options.php:128
+msgid "Logout Redirect Page"
+msgstr "Página de redirección al desconectarse"
+
+#: includes/customizer/customizer-options.php:124
+#: includes/customizer/customizer-options.php:1838
+msgid "Logout"
+msgstr "Salir"
+
+#: includes/customizer/customizer-options.php:121
+msgid "Logout Text"
+msgstr "Texto de desconexión"
+
+#: includes/customizer/customizer-options.php:116
+msgid "Select which page to redirect the user to after LOGGING IN. Defaults to Home."
+msgstr "Selecciona a qué página se debe redirigir al usuario después de acceder. Por defecto es «Inicio»."
+
+#: includes/customizer/customizer-options.php:113
+msgid "Login Redirect Page"
+msgstr "Página de redirección de acceso"
+
+#: includes/customizer/customizer-options.php:107
+msgid "Custom Page Url"
+msgstr "URL de página personalizada"
+
+#: includes/customizer/customizer-options.php:99
+msgid "Menu item links to:"
+msgstr "El elemento del menú enlaza a:"
+
+#: includes/customizer/customizer-options.php:90
+msgid "Login"
+msgstr "Acceder"
+
+#: includes/customizer/customizer-options.php:87
+msgid "Login Text"
+msgstr "Texto de «Acceder»"
+
+#: includes/customizer/customizer-options.php:82
+msgid "This will add a Login navigation item, and will change to Logout if the user is logged in."
+msgstr "Esto añadirá un elemento de navegación de «Acceder» y cambiará a «Cerrar sesión» si el usuario ya está conectado."
+
+#: includes/customizer/customizer-options.php:78
+msgid "Add Login / Logout to Navigation"
+msgstr "Añadir Acceder/Cerrar sesión a la navegación"
+
+#: includes/customizer/customizer-options.php:60
+msgid "Login / Logout Menu Item"
+msgstr "Elemento de menú «Acceder/Cerrar sesión»"
+
+#: includes/customizer/customizer-options.php:54
+msgid "Only admin users are able to view these statistics on the website front-end.<br />Site visitors will not see this."
+msgstr "Solo los usuarios administradores pueden ver estas estadísticas en el frontal del sitio web.<br />Los visitantes del sitio no verán esto."
+
+#: includes/customizer/customizer-options.php:51
+msgid "Turn on Front-End Product Statistics"
+msgstr "Activar las estadísticas de producto en la portada"
+
+#: includes/customizer/customizer-options.php:45
+msgid "Admin Only Settings"
+msgstr "Ajustes solo para administradores"
+
+#: includes/customizer/customizer-options.php:37
+msgid "Remove All WooCommerce Breadcrumbs"
+msgstr "Quitar todas las migas de pan de WooCommerce"
+
+#: includes/class-wcz.php:698
+msgid "Unserializing instances of StoreCustomizer is forbidden"
+msgstr "Está prohibido deserializar instancias de StoreCustomizer"
+
+#: includes/class-wcz.php:688
+msgid "Cloning of StoreCustomizer is forbidden"
+msgstr "La clonación de StoreCustomizer está prohibida"
+
+#: includes/class-wcz.php:594
+msgid "Dismiss This Notice"
+msgstr "Descartar este aviso"
+
+#: includes/class-wcz.php:589
+msgid "See All features included in StoreCustomizer Pro"
+msgstr "Ver todas las características incluidas en StoreCustomizer Pro"
+
+#: includes/class-wcz.php:584
+msgid "Purchase StoreCustomizer Pro"
+msgstr "Comprar StoreCustomizer Pro"
+
+#: includes/class-wcz.php:578
+msgid "Use the coupon \"GET35OFFNOW\" to get your discount now!"
+msgstr "¡Utiliza el cupón \"GET35OFFNOW\" para obtener tu descuento ahora!"
+
+#: includes/class-wcz.php:573
+msgid "We're running a new 35% special on StoreCustomizer for all licenses for this month (applies to first payments and renewals, forever)."
+msgstr "Tenemos una nueva oferta especial del 35% en StoreCustomizer para todas las licencias durante este mes (se aplica a los primeros pagos y renovaciones, para siempre)."
+
+#: includes/class-wcz.php:568
+msgid "NEW 35&#37; discount on StoreCustomizer Pro"
+msgstr "Nuevo descuento del 35&#37; en StoreCustomizer Pro"
+
+#: includes/class-wcz.php:539
+msgid "Dismiss Notice"
+msgstr "Descartar aviso"
+
+#: includes/class-wcz.php:529
+msgid "I'll give you a good rating!"
+msgstr "¡Te daré una buena valoración!"
+
+#: includes/class-wcz.php:524
+msgid "I'm not happy, Please help!"
+msgstr "No estoy contento, ¡por favor ayuda!"
+
+#: includes/class-wcz.php:519
+msgid "If there's something you're not happy with, please let me try and help you fix it."
+msgstr "Si hay algo que no te satisfaga, déjame intentar ayudarte a corregirlo."
+
+#: includes/class-wcz.php:514
+msgid "Ok, I'll rate StoreCustomizer!"
+msgstr "De acuerdo, valoraré StoreCustomizer."
+
+#: includes/class-wcz.php:508
+msgid "Giving StoreCustomizer a good review would really help with improving Storecustomizer & giving other users trust in my work."
+msgstr "Darle a StoreCustomizer una buena reseña realmente ayudaría a mejorar StoreCustomizer y a que otros usuarios confíen en mi trabajo."
+
+#: includes/class-wcz.php:504
+msgid "Like StoreCustomizer? Give it 5 stars :)"
+msgstr "¿Te gusta StoreCustomizer? Dale 5 estrellas :)"
+
+#: includes/class-wcz.php:498
+msgid "Report a Bug / Request a Feature"
+msgstr "Informar de un fallo / solicitar una característica"
+
+#. translators: 1: 'giving us a review'.
+#: includes/class-wcz.php:483
+msgid "I, Zack"
+msgstr "Yo, Zack"
+
+#. translators: 1: 'giving us a review'.
+#: includes/class-wcz.php:483
+msgid "%1$s, am here to help... I'll fix any bugs that come up, help you with support & do development of adding any new features you may need."
+msgstr "%1$s, estoy aquí para ayudar. Corregiré cualquier error que surja, te ayudaré con soporte y desarrollaré para añadir nuevas características que puedas necesitar."
+
+#: includes/class-wcz.php:477
+msgid "Have you found a bug?"
+msgstr "¿Has encontrado un fallo?"
+
+#: includes/class-wcz.php:469
+msgid "Try out StoreCustomizer PRO Settings"
+msgstr "Prueba los ajustes de StoreCustomizer PRO"
+
+#: includes/class-wcz.php:460
+msgid "StoreCustomizer Admin Page"
+msgstr "Página de administración de StoreCustomizer"
+
+#. translators: 1: 'WordPress Customizer'.
+#: includes/class-wcz.php:447
+msgid "WordPress Customizer"
+msgstr "Personalizador de WordPress"
+
+#. translators: 1: 'WordPress Customizer'.
+#: includes/class-wcz.php:447
+msgid "StoreCustomizer settings are built into the %1$s. You can navigate your way around and edit all the settings live."
+msgstr "Los ajustes de StoreCustomizer están integrados en %1$s. Puedes navegar y editar todos los ajustes en vivo."
+
+#: includes/class-wcz.php:441
+msgid "Customize your WooCommerce store."
+msgstr "Personaliza tu tienda de WooCommerce."
+
+#: includes/class-wcz.php:432
+msgid "Use the coupon \"GET35OFFNOW\" to get a limited 35% off any StoreCustomizer license (applies to first purchases and all future renewals!)"
+msgstr "Utiliza el cupón «GET35OFFNOW» para obtener un descuento limitado del 35 % en cualquier licencia de StoreCustomizer (¡Se aplica a las primeras compras y a todas las renovaciones futuras!)"
+
+#: includes/class-wcz.php:426
+msgid "Thank you for trying out StoreCustomizer !"
+msgstr "¡Gracias por probar StoreCustomizer!"
+
+#: includes/class-wcz.php:408
+msgid "Once you've  finished configuring your StoreCustomizer settings, make sure you Publish the new settings."
+msgstr "Una vez que hayas terminado de configurar los ajustes de StoreCustomizer, asegúrate de publicar los nuevos ajustes."
+
+#: includes/class-wcz.php:407
+msgid "Don't forget to save!"
+msgstr "¡No olvides guardar!"
+
+#: includes/class-wcz.php:401
+msgid "Get in Contact here - Premium users get prioritized support."
+msgstr "Ponte en contacto aquí: Los usuarios premium obtienen soporte prioritario."
+
+#: includes/class-wcz.php:400
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+#: includes/class-wcz.php:396
+msgid "Follow this link to turn on the pro settings. - Or Navigate to WooCommerce -> StoreCustomizer in your Dashboard."
+msgstr "Sigue este enlace para activar los ajustes pro. - O dirígete a WooCommerce -> StoreCustomizer en tu escritorio."
+
+#: includes/class-wcz.php:395
+msgid "Turn on the Pro Settings"
+msgstr "Activar los ajustes Pro"
+
+#: includes/class-wcz.php:391
+msgid "Once you've turned on the pro settings that you want, you'll then see the new panels appear here for Catalogue Mode, Product Quick View, Menu Cart and / or Ajax Search"
+msgstr "Una vez que hayas activado los ajustes Pro que quieres, verás aparecer aquí los nuevos paneles para el modo catálogo, vista rápida del producto, carrito de menú y/o búsqueda Ajax."
+
+#: includes/class-wcz.php:390
+msgid "Premium Settings get added here"
+msgstr "Los ajustes Premium se añaden aquí"
+
+#: includes/class-wcz.php:383
+msgid "After editing the Shop & Product pages, you may want to edit your user account, cart or checkout pages too."
+msgstr "Después de editar las páginas de tienda y producto, es posible que quieras editar también tu cuenta de usuario, carrito o páginas de pago."
+
+#: includes/class-wcz.php:382
+msgid "Plus Account, Cart & Checkout Pages"
+msgstr "Además, páginas de cuenta, carrito y pago"
+
+#: includes/class-wcz.php:378
+msgid "In this group of Customizer panels you can customize the each of the WooCommerce pages by editing the settings within each section."
+msgstr "En este grupo de paneles del personalizador, puedes personalizar cada una de las páginas de WooCommerce editando los ajustes dentro de cada sección."
+
+#: includes/class-wcz.php:377
+msgid "Customize the WooCommerce Pages"
+msgstr "Personalizar las páginas de WooCommerce"
+
+#: includes/class-wcz.php:373
+msgid "We hope you enjoy using the plugin to further customize your WooCommerce pages. - PLEASE NOTE... Some settings might not display perfectly, depending on which theme you're using. - You can always contact us for help on this."
+msgstr "Esperamos que disfrutes usando el plugin para una mayor personalización de tus páginas de WooCommerce. - Ten en cuenta que es posible que algunos ajustes no se muestren perfectamente, según el tema que estés utilizando. - Siempre puedes ponerte en contacto con nosotros para obtener ayuda con esto."
+
+#: includes/class-wcz.php:372
+msgid "Welcome to StoreCustomizer!"
+msgstr "¡Te damos la bienvenida a StoreCustomizer!"
+
+#: includes/class-wcz.php:340
+msgid "Turn on the Premium settings"
+msgstr "Activar los ajustes Premium"
+
+#: includes/class-wcz.php:339
+msgid "Next Tip"
+msgstr "Siguiente consejo"
+
+#: includes/class-wcz.php:338
+msgid "Previous Tip"
+msgstr "Consejo anterior"
+
+#: includes/class-wcz.php:337
+msgid "Turn Tour Off"
+msgstr "Desactivar el recorrido"
+
+#: includes/class-wcz.php:336
+msgid "Show The Tour"
+msgstr "Mostrar el recorrido"
+
+#: includes/class-wcz-settings.php:758
+msgid "Unserializing instances of WooCustomizer_API is forbidden."
+msgstr "Está prohibido deserializar instancias de StoreCustomizer_API"
+
+#: includes/class-wcz-settings.php:749
+msgid "Cloning of WooCustomizer_API is forbidden."
+msgstr "La clonación de StoreCustomizer_API está prohibida."
+
+#: includes/class-wcz-settings.php:718
+msgid "Customize Your Settings"
+msgstr "Personaliza tus ajustes"
+
+#: includes/class-wcz-settings.php:717
+msgid "Click here to open the WordPress Customizer and navigate to the -> StoreCustomizer panel."
+msgstr "Haz clic aquí para abrir el personalizador de WordPress y navegar hasta el -> panel de StoreCustomizer."
+
+#: includes/class-wcz-settings.php:714 includes/class-wcz.php:341
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: includes/class-wcz-settings.php:708
+msgid "Become an Affiliate"
+msgstr "Conviértete en afiliado"
+
+#: includes/class-wcz-settings.php:710
+msgid "Free Premium Trial"
+msgstr "Periodo de prueba premium gratuito"
+
+#: includes/class-wcz-settings.php:711
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: includes/class-wcz-settings.php:706
+msgid "Account"
+msgstr "Cuenta"
+
+#: includes/class-wcz-settings.php:696
+msgid "Watch our 'getting started' video on how to use StoreCustomizer"
+msgstr "Ve nuestro video de 'introducción' sobre cómo usar StoreCustomizer"
+
+#: includes/class-wcz-settings.php:695
+msgid "Using StoreCustomizer"
+msgstr "Uso de StoreCustomizer"
+
+#: includes/class-wcz-settings.php:690
+msgid "Save Settings"
+msgstr "Guardar los ajustes"
+
+#: includes/class-wcz-settings.php:521
+msgid "Replace the default sale badge"
+msgstr "Reemplazar la insignia de oferta por defecto"
+
+#: includes/class-wcz-settings.php:514
+msgid "Go to Product Badges"
+msgstr "Ir a las insignias de producto"
+
+#: includes/class-wcz-settings.php:507
+msgid "Enable Product Badges"
+msgstr "Activar las insignias de producto"
+
+#: includes/class-wcz-settings.php:503
+msgid "Do you want fancy badges for your WooCommerce Products?<br />Turn on StoreCustomizer Product Badges and start creating your own badges under <b>Products -> Product Badges</b>."
+msgstr "¿Quieres insignias elegantes para tus productos de WooCommerce?<br />Activa las insignias de producto de StoreCustomizer y comienza a crear tus propias insignias en <b>Productos -> Insignias de producto</b>."
+
+#: includes/class-wcz-settings.php:481
+msgid "Enable Handheld Footer Bar"
+msgstr "Activar la barra de pie de página para dispositivos móviles"
+
+#: includes/class-wcz-settings.php:477
+msgid "Turn on a neat Footer Bar Navigation for handheld (mobile) devices."
+msgstr "Activar una navegación ordenada en la barra de pie de página para dispositivos portátiles (móviles)."
+
+#: includes/class-wcz-settings.php:468
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: includes/class-wcz-settings.php:467
+msgid "See StoreCustomizer Documentation"
+msgstr "Ver la documentación de StoreCustomizer"
+
+#: includes/class-wcz-settings.php:461
+msgid "Create Thank You Pages Per Payment Type"
+msgstr "Crear páginas de agradecimiento por tipo de pago"
+
+#: includes/class-wcz-settings.php:460
+msgid "Create Thank You Pages Per Product"
+msgstr "Crear páginas de agradecimiento por producto"
+
+#: includes/class-wcz-settings.php:459
+msgid "Use Only The One Custom Page Above"
+msgstr "Utilizar sólo la página personalizada de arriba"
+
+#: includes/class-wcz-settings.php:455
+msgid "Select How You Want To Create Thank You Pages"
+msgstr "Selecciona cómo quieres crear las páginas de agradecimiento"
+
+#: includes/class-wcz-settings.php:447
+msgid "Select a default Purchase Thank You Page"
+msgstr "Seleccionar una página de agradecimiento por defecto"
+
+#: includes/class-wcz-settings.php:440
+msgid "Enable Custom Thank You Pages"
+msgstr "Activar páginas de agradecimiento personalizadas"
+
+#: includes/class-wcz-settings.php:436
+msgid "Set an after purchase Custom Thank You Page."
+msgstr "Establecer una página de agradecimiento personalizada después de la compra."
+
+#: includes/class-wcz-settings.php:405
+msgid "Enable Ajax Search"
+msgstr "Activar la búsqueda Ajax"
+
+#: includes/class-wcz-settings.php:391
+msgid "Enable Product Quick View"
+msgstr "Activar la vista rápida de producto"
+
+#: includes/class-wcz-settings.php:376
+msgid "Select which Menu to add a Menu Cart to"
+msgstr "Selecciona a qué menú añadir un menú de carrito"
+
+#: includes/class-wcz-settings.php:369
+msgid "Enable Menu Cart"
+msgstr "Activar el menú de carrito"
+
+#: includes/class-wcz-settings.php:342
+msgid "Enable Catalogue Mode"
+msgstr "Activar el modo catálogo"
+
+#: includes/class-wcz-settings.php:317
+msgid "<b>Note:</b> All settings for StoreCustomizer are built into the WordPress Customizer.<br />Please go to <b>Appearance -> Customize -> StoreCustomizer</b>"
+msgstr "<b>Nota:</b> Todos los ajustes de StoreCustomizer están integrados en el personalizador de WordPress.<br />Ve a <b>Apariencia -> Personalizar -> StoreCustomizer</b>"
+
+#: includes/class-wcz-settings.php:305
+msgid "Do you want fancy badges for your WooCommerce Products? Turn on StoreCustomizer Product Badges and start creating your own badges under Products -> Product Badges."
+msgstr "¿Quieres insignias elegantes para tus productos WooCommerce? Activa las insignias de productos de StoreCustomizer y empieza a crear tus propias insignias en Productos -> Insignias de productos."
+
+#: includes/class-wcz-settings.php:301
+msgid "WooCommerce Product Badges"
+msgstr "Insignias de producto de WooCommerce"
+
+#: includes/class-wcz-settings.php:297
+msgid "Add custom badges to your WooCommerce Products."
+msgstr "Añade insignias personalizadas a tus productos de WooCommerce."
+
+#: includes/class-wcz-settings.php:296 includes/class-wcz-settings.php:502
+#: includes/class-wcz-settings.php:515
+msgid "Product Badges"
+msgstr "Insignias de producto"
+
+#: includes/class-wcz-settings.php:290
+msgid "Your users can easily search for products, proceed to checkout, or view their account pages from anywhere within your store when on mobile or tablet devices. StoreCustomizer Pro gives you a neat footer navigation bar for handheld devices. Plus you are able to further customize the footer navigation bar to suit your website design."
+msgstr "Tus usuarios pueden buscar productos fácilmente, realizar el pago o ver las páginas de su cuenta desde cualquier lugar dentro de tu tienda cuando estén en dispositivos móviles o tabletas. StoreCustomizer Pro te ofrece una barra de navegación en el pie de página limpia para dispositivos móviles. Además, puedes personalizar aún más la barra de navegación del pie de página para adaptarla al diseño de tu sitio web."
+
+#: includes/class-wcz-settings.php:282
+msgid "Make navigating your products and proceeding to the cart or checkout pages on your store even quicker and easier for all users on handheld devices."
+msgstr "Haz que navegar por tus productos y acceder al carrito o a las páginas de pago en tu tienda sea aún más rápido y sencillo para todos los usuarios en dispositivos móviles."
+
+#: includes/class-wcz-settings.php:281 includes/class-wcz-settings.php:286
+#: includes/class-wcz-settings.php:476
+msgid "Handheld Footer Bar"
+msgstr "Barra de pie de página para dispositivos móviles"
+
+#: includes/class-wcz-settings.php:275
+msgid "StoreCustomizer offers the ability to build your own custom Thank You pages for WooCommerce, using default WordPress or any page builder you like, and to redirect the customer to your new default Thank You page, redirect them to different pages depending on the products they've just bought, or to pages depending how they purchased the products on your store."
+msgstr "StoreCustomizer ofrece la posibilidad de crear tus propias páginas de agradecimiento personalizadas para WooCommerce, utilizando el editor por defecto de WordPress o cualquier maquetador de páginas que desees, y redirigir al cliente a tu nueva página de agradecimiento predeterminada, redirigirlo a diferentes páginas según los productos que haya comprado, o a páginas dependiendo de cómo compraron los productos en tu tienda."
+
+#: includes/class-wcz-settings.php:271
+msgid "Custom Thank You Pages"
+msgstr "Páginas de agradecimiento personalizadas"
+
+#: includes/class-wcz-settings.php:267
+msgid "The after purchase Thank You page is a very powerful place to get your users to sign up to your newsletter, show how to use the products, or to advertise other products that they might like<br /><br />They have just purchased something from you so they already trust you and want your products."
+msgstr "La página de agradecimiento posterior a la compra es un lugar muy eficaz para lograr que los usuarios se suscriban a tu boletín, mostrar cómo utilizar los productos o anunciar otros productos que les puedan gustar.<br /><br />Acaban de comprar algo tuyo, así que ya confían en ti y quieren tus productos."
+
+#: includes/class-wcz-settings.php:266 includes/class-wcz-settings.php:435
+msgid "Thank You Page(s)"
+msgstr "Página(s) de agradecimiento"
+
+#: includes/class-wcz-settings.php:260
+msgid "Want to speed up users finding your products? Add simple ajax product search to your search bar and configure a bunch of settings to display a prediction of products when your users start typing to search through your products."
+msgstr "¿Quieres acelerar que los usuarios encuentren tus productos? Añade una búsqueda simple de productos ajax a tu barra de búsqueda y configura una serie de ajustes para mostrar una predicción de productos cuando sus usuarios comiencen a escribir para buscar tus productos."
+
+#: includes/class-wcz-settings.php:256
+msgid "Ajax Product Search"
+msgstr "Búsqueda de productos Ajax"
+
+#: includes/class-wcz-settings.php:252 includes/class-wcz-settings.php:401
+msgid "Add Ajax Search functionlaity to make finding your products quicker and easier."
+msgstr "Añade la funcionalidad de búsqueda Ajax para que encontrar tus productos sea más rápido y sencillo."
+
+#: includes/class-wcz-settings.php:251 includes/class-wcz-settings.php:400
+msgid "Ajax Search"
+msgstr "Búsqueda Ajax"
+
+#: includes/class-wcz-settings.php:245
+msgid "Give your users the option to preview your products and easily 'add to cart' or browse the images from within a popup on your shop page, or click through to the product page after they've seen it all."
+msgstr "Ofrece a tus usuarios la opción de obtener una vista previa de tus productos y «agregarlos al carrito» fácilmente o de explorar las imágenes desde una ventana emergente en la página de tu tienda, o hacer clic en la página del producto después de haberlo visto todo."
+
+#: includes/class-wcz-settings.php:237 includes/class-wcz-settings.php:387
+msgid "Add a Quick View Popup to your WooCommerce Products."
+msgstr "Añade una ventana emergente de vista rápida a tus productos de WooCommerce."
+
+#: includes/class-wcz-settings.php:236 includes/class-wcz-settings.php:241
+#: includes/class-wcz-settings.php:386
+msgid "Product Quick View"
+msgstr "Vista rápida de producto"
+
+#: includes/class-wcz-settings.php:230
+msgid "Simply turn on Menu Cart and select which menu you’d like to display a WooCommerce cart in. Add a drop down mini cart basket so your users can add or remove products, view their cart or go straight to checkout."
+msgstr "Activa el menú de carrito y selecciona en qué menú quieres mostrar un carrito de WooCommerce. Añade una cesta de mini carrito desplegable para que tus usuarios puedan añadir o eliminar productos, ver su carrito o ir directamente al pago."
+
+#: includes/class-wcz-settings.php:222 includes/class-wcz-settings.php:365
+msgid "Easily add a WooCommerce Menu Cart to your site navigation."
+msgstr "Añade fácilmente un carrito de menú de WooCommerce a la navegación de tu sitio."
+
+#: includes/class-wcz-settings.php:221 includes/class-wcz-settings.php:226
+#: includes/class-wcz-settings.php:364
+msgid "Menu Cart"
+msgstr "Carrito del menú"
+
+#: includes/class-wcz-settings.php:215
+msgid "Easily remove the purchase functionality from your shop, turning your online store into a beautiful online catalogue. Apply these settings to all products, selected products, or only to logged out users, prompting users to create an account and log in to purchase your products."
+msgstr "Elimina fácilmente la funcionalidad de compra de tu tienda, convirtiendo tu tienda online en un hermoso catálogo online. Aplica estos ajustes a todos los productos, a los productos seleccionados o solo a usuarios desconectados, solicitando a los usuarios que creen una cuenta e inicien sesión para comprar tus productos."
+
+#: includes/class-wcz-settings.php:212 includes/class-wcz-settings.php:227
+#: includes/class-wcz-settings.php:242 includes/class-wcz-settings.php:257
+#: includes/class-wcz-settings.php:272
+msgid "Upgrade from only <b>$49</b> to unlock these extra Pro features"
+msgstr "Actualiza desde sólo <b>$49</b> para desbloquear estas características Pro adicionales"
+
+#: includes/class-wcz-settings.php:207 includes/class-wcz-settings.php:338
+msgid "These are settings to turn your online store into Catalogue Mode so users can only browse products and not purchase them for the time period set."
+msgstr "Estos son ajustes para convertir tu tienda en línea en modo catálogo para que los usuarios solo puedan buscar productos y no comprarlos durante el período de tiempo establecido."
+
+#: includes/class-wcz-settings.php:206 includes/class-wcz-settings.php:211
+#: includes/class-wcz-settings.php:337
+msgid "Catalogue Mode"
+msgstr "Modo catálogo"
+
+#: includes/class-wcz-settings.php:197 includes/class-wcz-settings.php:328
+msgid "Delete all plugin data when StoreCustomizer is deleted"
+msgstr "Eliminar todos los datos del plugin cuando se borre StoreCustomizer"
+
+#: includes/class-wcz-settings.php:190 includes/class-wcz-settings.php:321
+msgid "Turn off the Customizer Tour"
+msgstr "Desactivar el recorrido del personalizador"
+
+#: includes/class-wcz-settings.php:85
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-wcz-admin-api.php:170
+msgid "Remove image"
+msgstr "Eliminar la imagen"
+
+#: includes/class-wcz-admin-api.php:169
+msgid "Upload new image"
+msgstr "Subir una nueva imagen"
+
+#: includes/class-wcz-admin-api.php:169
+msgid "Use image"
+msgstr "Usar imagen"
+
+#: includes/class-wcz-admin-api.php:169
+msgid "Upload an image"
+msgstr "Subir una imagen"
+
+#. Author URI of the plugin
+#: woocustomizer.php
+msgid "https://kairaweb.com/"
+msgstr "https://kairaweb.com/"
+
+#. Author of the plugin
+#: woocustomizer.php
+msgid "Kaira"
+msgstr "Kaira"
+
+#. Description of the plugin
+#: woocustomizer.php
+msgid "A store editor plugin for editing all WooCommerce store and product pages, cart, checkout and user account pages, all within the WordPress Customizer"
+msgstr "Un plugin de personalización de tiendas para editar las páginas de tu tienda y productos de WooCommerce, las páginas de carrito y de pago y también la página de la cuenta de usuario, todo dentro del personalizador de WordPress."
+
+#. Plugin URI of the plugin
+#: woocustomizer.php
+msgid "https://kairaweb.com/wordpress-plugins/woocustomizer/"
+msgstr "https://kairaweb.com/wordpress-plugins/woocustomizer/"
+
+#. Plugin Name of the plugin
+#: woocustomizer.php includes/class-wcz-settings.php:137
+#: includes/class-wcz-settings.php:138 includes/class-wcz-settings.php:185
+#: includes/class-wcz-settings.php:316 includes/class-wcz-settings.php:619
+#: includes/customizer/customizer-options.php:23
+#: includes/customizer/customizer-options.php:31
+msgid "StoreCustomizer"
+msgstr "StoreCustomizer"

@@ -1,0 +1,14 @@
+[09-Aug-2021 21:04:18 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:04:25 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:04:37 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:04:43 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:04:53 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:05:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:05:11 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:05:20 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:05:27 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:05:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:05:43 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:06:01 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[09-Aug-2021 21:06:11 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/mikeld6.sg-host.com/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[19-Jul-2022 01:45:32 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM lij_options WHERE option_name = 'siteground_optimizer_logged_in_cache' LIMIT 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/sg-cachepress/sg-cachepress.php'), SiteGround_Optimizer\Loader\Loader->__construct, SiteGround_Optimizer\Loader\Loader->load_dependencies, SiteGround_Optimizer\Loader\Loader->factory, SiteGround_Optimizer\File_Cacher\File_Cacher->__construct, get_option

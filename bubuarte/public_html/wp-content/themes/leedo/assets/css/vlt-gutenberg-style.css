@@ -1,0 +1,82 @@
+/* Gutenberg Editor Stylesheet
+ * Version: 1.0
+ *
+ * Powered by VLThemes */
+/* preformatted */
+.wp-block-code,
+.wp-block-preformatted pre,
+.wp-block-verse pre,
+pre.wp-block-verse
+{
+    padding: 30px;
+
+    border-left: 6px solid var(--p1);
+    background-color: #f5f5f5;
+}
+
+/* blockquote */
+.wp-block-quote
+{
+    color: var(--p1);
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large)
+{
+    padding-left: 0;
+
+    border: none;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large) p
+{
+    font-size: 32px;
+    line-height: 1.4;
+}
+
+.wp-block-pullquote.is-style-solid-color blockquote
+{
+    text-align: center;
+}
+
+.wp-block-pullquote
+{
+    padding: 60px 0;
+}
+.wp-block-pullquote blockquote
+{
+    margin: 0;
+}
+
+/* cite */
+.wp-block-quote__citation,
+.wp-block-pullquote cite,
+.wp-block-pullquote footer,
+.wp-block-pullquote__citation,
+.wp-block-pullquote.is-style-solid-color .wp-block-pullquote__citation
+{
+    font-size: 12px;
+    font-style: normal;
+
+    display: block;
+
+    margin: 15px 0 0;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #999;
+}
+
+.wp-block-pullquote.is-style-solid-color .wp-block-pullquote__citation
+{
+    color: currentColor;
+}
+
+/* dropcap */
+p.has-drop-cap:not(:focus):first-letter
+{
+    font-family: var(--pf);
+    font-weight: 700;
+
+    color: var(--p1);
+}
